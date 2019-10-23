@@ -1,0 +1,7 @@
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\bin\Debug\Korniienko_Task4.exe.config
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\bin\Debug\Korniienko_Task4.exe
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\bin\Debug\Korniienko_Task4.pdb
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\obj\Debug\Korniienko_Task4.csprojAssemblyReference.cache
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\obj\Debug\Korniienko_Task4.csproj.CoreCompileInputs.cache
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\obj\Debug\Korniienko_Task4.exe
+C:\Users\yyyy\source\repos\Korniienko_Task3\Korniienko_Task4\obj\Debug\Korniienko_Task4.pdb
